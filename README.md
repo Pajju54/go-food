@@ -24,7 +24,7 @@ A simple and efficient food ordering website where users can browse menus, add i
 
     ```bash
     git clone https://github.com/Pajju54/go-food.git
-    cd food-ordering-website
+    cd go-food
     ```
 
 2. Install the dependencies:
