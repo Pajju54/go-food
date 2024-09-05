@@ -23,7 +23,7 @@ A simple and efficient food ordering website where users can browse menus, add i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/food-ordering-website.git
+    git clone https://github.com/Pajju54/go-food.git
     cd food-ordering-website
     ```
 
@@ -33,21 +33,13 @@ A simple and efficient food ordering website where users can browse menus, add i
     npm install
     ```
 
-3. Create a `.env` file and configure your environment variables:
-
-    ```plaintext
-    MONGODB_URI=your_mongodb_connection_string
-    JWT_SECRET=your_jwt_secret
-    PORT=5000
-    ```
-
-4. Start the development server:
+3. Start the development server:
 
     ```bash
     npm run dev
     ```
 
-5. Open your browser and navigate to `http://localhost:5000`.
+4. Open your browser and navigate to `http://localhost:5000`.
 
 ## Usage
 
@@ -68,10 +60,6 @@ Contributions are welcome! Please follow these steps:
 5. Push to the branch: `git push origin feature/YourFeature`
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact [prajwaljoshi51@gmail.com](mailto:prajwaljoshi51@gmail.com).
